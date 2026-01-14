@@ -1,6 +1,6 @@
 
 
-[![RocEpli](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/RocEpli)
+[![RocEpli](https://img.shields.io/badge/RocEpli-github-blue?logo=github)](https://github.com/RocEpli)
 
 He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
 
