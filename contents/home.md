@@ -1,7 +1,7 @@
 [![RocEpli](https://img.shields.io/badge/RocEpli-github-blue?logo=github)](https://github.com/RocEpli)<br>
 &emsp;&emsp;你好！我是**李恩鹏**，一个对机器视觉与智能充满好奇的探索者✨。目前在东北大学**图像识别与机器智能研究所**攻读硕士学位。<br>
-&emsp;&emsp;我近期的研究是基于**前馈模型**的长序列三维重建算法。旨在解决前馈模型算法在**长序列场景**上的显存需求及累计漂移问题。同时我探索利用**3D Gaussian Splatting**等技术进行大场景的实时重建与渲染，构建可用于交互的显式环境表征。<br>
-&emsp;&emsp;关注基于视觉的**端到端自动驾驶系统**，研究其中**世界模型（World Model）**的构建与推理机制，并探索**VLA框架**在驾驶场景中的理解与泛化能力。探索**自动驾驶系统**从感知到控制的闭环智能，实现更拟人、更可靠的环境交互与行为生成。<br>
+&emsp;&emsp;我近期的研究是基于<strong>前馈模型</strong>的长序列三维重建算法。旨在解决前馈模型算法在<strong>长序列场景</strong>上的显存需求及累计漂移问题。同时我探索利用<strong>3D Gaussian Splatting</strong>等技术进行大场景的实时重建与渲染，构建可用于交互的显式环境表征。<br>
+&emsp;&emsp;关注基于视觉的<strong>端到端自动驾驶系统</strong>，研究其中<strong>世界模型（World Model）</strong>的构建与推理机制，并探索<strong>VLA框架</strong>在驾驶场景中的理解与泛化能力。探索<strong>自动驾驶系统</strong>从感知到控制的闭环智能，实现更拟人、更可靠的环境交互与行为生成。<br>
 &emsp;&emsp;以数据重构现实，用算法理解世界，一起走向更智能的未来吧！🚀🚀🚀
 #### Biography
 **东北大学（985）** 研究生二年级在读<br>

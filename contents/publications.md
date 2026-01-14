@@ -28,7 +28,7 @@
     </video>
 </div>
 <div align="center">
-    基于单目RGB图像的KITTI00数据集长序列点云效果（MP4 视频）
+    无人机32张RGB图训练视角帧间插值10张高斯渲染视频效果。
 </div>
 
 #### Published
