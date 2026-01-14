@@ -1,6 +1,9 @@
 #### Submitted
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
+<div align="center">
+    <img src="static/assets/img/001.png" alt="我的照片" width="1260" style="border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); margin: 20px 0;">
+</div>
+
 #### Published
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C
+
 
 
