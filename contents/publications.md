@@ -9,7 +9,7 @@
 
 <div align="center">
 <img src="/static/assets/img/001.gif"
-     alt="无人机三维重建 GIF"
+     alt="无人机三维重建000"
      width="1260"
      style="border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); margin: 20px 0;">
 
