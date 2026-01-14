@@ -9,4 +9,6 @@ GRF-Recon: Global Ray-Field Optimization for Drift-Free Long-Sequence Feed-forwa
 </a>】<br>
 An Illumination-Robust Real-Time Hybrid Visual-Inertial SLAM Framework Based on Deep Learning Networks
 <br>
-- 一种面向暗光环境的视觉惯性里程计方法（申请号：202511481734.0） &emsp;**发明专利** 第一学生作者（受理）
+
+- **发明专利** 第一学生作者（受理）<br>
+一种面向暗光环境的视觉惯性里程计方法（申请号：202511481734.0）
