@@ -33,7 +33,6 @@
 
 
 #### 端到端自动驾驶 VLA 模型实践
-</div>
 <!-- MP4 视频 -->
 <div align="center">
     <video width="800" autoplay loop muted playsinline
