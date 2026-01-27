@@ -32,7 +32,6 @@
 </div><br>
 
 
-
 #### 端到端自动驾驶 VLA 模型实践
 <!-- MP4 视频 -->
 <div align="center">
