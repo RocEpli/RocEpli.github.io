@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-     基于单目RGB图像的KITTI01数据集长序列重建效果
+     基于单目RGB图像的KITTI00数据集长序列重建效果
 
 </div>
 
@@ -31,7 +31,7 @@
     </video>
 </div>
 <div align="center">
-    基于单目RGB图像的KITTI00数据集长序列重建效果视频效果
+    基于单目RGB图像的KITTI00数据集长序列重建视频效果
 </div><br>
 
 
