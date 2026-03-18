@@ -21,6 +21,21 @@
      基于单目RGB图像的KITTI01数据集长序列重建效果
 
 </div>
+
+<!-- MP4 视频 -->
+<div align="center">
+    <video width="800" autoplay loop muted playsinline
+           style="border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); margin: 20px 0;">
+        <source src="/static/assets/img/GRF-Recon-Video.mp4" type="video/mp4">
+        您的浏览器不支持 video 标签
+    </video>
+</div>
+<div align="center">
+    基于单目RGB图像的KITTI00数据集长序列重建效果视频效果
+</div><br>
+
+
+
 <!-- MP4 视频 -->
 <div align="center">
     <video width="800" autoplay loop muted playsinline
