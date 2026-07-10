@@ -1,5 +1,5 @@
 
-- **ECCV-2026** 第一作者（在投）<br>
+- **ECCV-2026** 第一作者（录用）<br>
 GRF-Recon: Global Ray-Field Optimization for Drift-Free Long-Sequence Feed-forward Mapping<br>
 - **CVIDL-2025** 第二作者（录用）
 【<a href="https://www.semanticscholar.org/paper/An-Illumination-Robust-Real-Time-Hybrid-SLAM-Based-Rong-Li/b6b50d03743bf46f175e576301074eafa3f68914"
